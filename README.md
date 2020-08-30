@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+I'm Adel from Russia, St.Petersburg.
+I'm Frontend developer and I'm fond of javaScript and React 😊
+So here you could find some of my pet-projects:<br>
+
+- [Application 'RS Lang' on React](https://rslang-team5-alekchaik.netlify.app/)
+- [Application 'Guess the music' on React](https://adelinyshka-songbird.netlify.app/)
+- [Application 'Fancy Weather' on native JavaSript](https://rslang-team5-alekchaik.netlify.app/)
+
+Also some business websites:<br>
+- [Site for rent apartment](https://dali-apart.ru/)
+- [Site for apartment rental](https://posutochno-peterburg.ru/)
+
 <!--
 **adelinyshka/adelinyshka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
