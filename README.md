@@ -2,6 +2,7 @@
 
 I'm Adel from Russia, St.Petersburg.
 I'm Frontend developer and I'm fond of javaScript and React 😊
+
 So here you could find some of my pet-projects:<br>
 
 - [Application 'RS Lang' on React](https://rslang-team5-alekchaik.netlify.app/)
