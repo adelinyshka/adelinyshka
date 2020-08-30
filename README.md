@@ -3,6 +3,8 @@
 I'm Adel from Russia, St.Petersburg.
 I'm Frontend developer and I'm fond of javaScript and React 😊
 
+### Projects
+
 So here you could find some of my pet-projects:<br>
 
 - [Application 'RS Lang' on React](https://rslang-team5-alekchaik.netlify.app/)
@@ -12,6 +14,10 @@ So here you could find some of my pet-projects:<br>
 Also some business websites:<br>
 - [Site for rent apartment](https://dali-apart.ru/)
 - [Site for apartment rental](https://posutochno-peterburg.ru/)
+
+### Get in touch
+
+- telegram @adel_dubinnikova
 
 <!--
 **adelinyshka/adelinyshka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
