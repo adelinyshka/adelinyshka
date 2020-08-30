@@ -17,7 +17,7 @@ Also some business websites:<br>
 
 ### Get in touch
 
-- telegram @adel_dubinnikova
+- telegram [@adel_dubinnikova](https://t.me/adel_dubinnikova)
 
 <!--
 **adelinyshka/adelinyshka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
