@@ -18,6 +18,7 @@ Also some business websites:<br>
 ### Get in touch
 
 - telegram @adel_dubinnikova
+
 https://img.shields.io/badge/email-adelinyshka%40gmail.com-red
 
 <!--
