@@ -19,6 +19,7 @@ Also some business websites:<br>
 
 - telegram @adel_dubinnikova
 
+https://img.shields.io/static/v1?label=<LABEL>&email=<adelinyshka%40gmail.com>&color=<red>
 https://img.shields.io/badge/email-adelinyshka%40gmail.com-red
 
 <!--
