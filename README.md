@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Adel from Russia, St.Petersburg.
-I'm Frontend developer and I'm fond of javaScript and React 😊
+I'm Frontend developer and I'm fond of JavaScript and React 😊
 
 ### Projects
 
