@@ -9,7 +9,7 @@ So here you could find some of my pet-projects:<br>
 
 - [Application 'RS Lang' on React](https://rslang-team5-alekchaik.netlify.app/)
 - [Application 'Guess the music' on React](https://adelinyshka-songbird.netlify.app/)
-- [Application 'Fancy Weather' on native JavaSript](https://rslang-team5-alekchaik.netlify.app/)
+- [Application 'Fancy Weather' on native JavaScript](https://rslang-team5-alekchaik.netlify.app/)
 
 Also some business websites:<br>
 - [Site for rent apartment](https://dali-apart.ru/)
