@@ -1,1 +1,62 @@
-<mxfile host="app.diagrams.net" modified="2021-01-02T21:02:03.657Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="14.1.3" etag="akN2E-a-TRWfukrxxV79" type="github"><diagram id="ENkewUlpR-qWJPmzf-o1">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-02T21:16:07.148Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="_yp_PiOC0sa6uuvgk1pO" version="14.1.3" type="github" pages="2">
+  <diagram id="ENkewUlpR-qWJPmzf-o1" name="Page-1">
+    <mxGraphModel dx="788" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Av68puHFbItDTitbPLna-2" value="Закусочная работает на вынос.&lt;br&gt;Поэтому нужны повар, доставщик, уборщик и тот кто будет контролировать процессы&lt;br&gt;&lt;br&gt;Заказы приходят в приложении, есть онлайн оплата и курьеру" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="20" width="260" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Av68puHFbItDTitbPLna-3" value="&lt;b&gt;доставщик&lt;br&gt;&lt;/b&gt;&lt;br&gt;- доставляет&lt;br&gt;- принимает оплату&lt;br&gt;- отчитывается" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="300" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="AMIFH6kyIx8bPVmqXVnk-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Av68puHFbItDTitbPLna-4" target="Av68puHFbItDTitbPLna-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Av68puHFbItDTitbPLna-4" value="&lt;b&gt;повар&lt;br&gt;&lt;/b&gt;&lt;br&gt;- закупает продукты&lt;br&gt;- готовит&lt;br&gt;- отчитывается" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="300" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Av68puHFbItDTitbPLna-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Av68puHFbItDTitbPLna-5" target="Av68puHFbItDTitbPLna-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AMIFH6kyIx8bPVmqXVnk-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.182;entryY=-0.018;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Av68puHFbItDTitbPLna-5" target="Av68puHFbItDTitbPLna-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190.00000000000023" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="260" />
+              <mxPoint x="191" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AMIFH6kyIx8bPVmqXVnk-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Av68puHFbItDTitbPLna-5" target="Av68puHFbItDTitbPLna-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="260" />
+              <mxPoint x="475" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Av68puHFbItDTitbPLna-5" value="&lt;b&gt;управляющий&lt;br&gt;&lt;/b&gt;&lt;br&gt;- смотрит за исполнениям обязанностей повара, доставщика, уборщика&lt;br&gt;- решает проблемы&lt;br&gt;- занимается рекламой и отчетом по деньгам" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="110" width="175" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Av68puHFbItDTitbPLna-6" value="&lt;b&gt;уборщик&lt;br&gt;&lt;/b&gt;&lt;br&gt;- отвечает за чистоту всех помещений&lt;br&gt;- пишет отчет об уборке" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="300" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="AMIFH6kyIx8bPVmqXVnk-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.455;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AMIFH6kyIx8bPVmqXVnk-3" target="Av68puHFbItDTitbPLna-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AMIFH6kyIx8bPVmqXVnk-3" value="в приложение приходит заказ" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="310" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Neu3YT4I5Q3472HXB88T" name="Page-2">
+    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="N-hZ1c4j55nL98qJ2AlV-0" />
+        <mxCell id="N-hZ1c4j55nL98qJ2AlV-1" parent="N-hZ1c4j55nL98qJ2AlV-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
