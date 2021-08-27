@@ -4,7 +4,7 @@ I'm Adel from Russia, St.Petersburg.
 
 So I'm Frontend developer and I'm fond of JavaScript, TypeScript and React 😊
 
-And also I'm studing Java, it's so interesting!
+And also I'm studing Java & Python, cos it's so interesting!
 
 ### Projects
 
