@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm experienced Front-end developer and I'm fond of JavaScript, TypeScript and React 😊
-I'm living in Turkey from 2022.
+Front-end developer with 5 yoe and I'm fond of JavaScript, TypeScript and React 😊
+I'm living in USA since 2023
 
 
 ### Get in touch
