@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Front-end developer with 5 yoe and I'm fond of JavaScript, TypeScript and React 😊
-I'm living in USA since 2023
+Front-end developer with 5 yoe 😊
+I've been living in the USA since 2023
 
 
 ### Get in touch
