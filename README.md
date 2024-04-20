@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-Front-end developer with 5 yoe 😊
-I've been living in the USA since 2023
+I am a Front-End Software Engineer with over 8 years of experience developing websites and applications, leading development teams, and managing software projects. 
+Living in NYC, USA
 
 
 ### Get in touch
-
+- adel.dubinnikova@gmail.com
 - telegram [@adelkai](https://t.me/adelkai)
 
 <!--
