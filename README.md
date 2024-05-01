@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Front-End Software Engineer with over 8 years of experience developing websites and applications, leading development teams, and managing software projects. 
+I am a Frontend Software Engineer with over 8 years of experience developing websites and applications, leading development teams, and managing software projects. 
 Living in NYC, USA
 
 
