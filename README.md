@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-I am a Frontend Software Engineer with over 8 years of experience developing websites and applications, leading development teams, and managing software projects. 
+I am a Frontend Software Engineer with over 9 years of experience developing websites and applications, leading development teams, and managing software projects. 
 Living in NYC, USA
 
 
 ### Get in touch
-- adel.dubinnikova@gmail.com
-- telegram [@adelkai](https://t.me/adelkai)
+- dubinnikova.adel.dev@gmail.com
 
 <!--
 **adelinyshka/adelinyshka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
