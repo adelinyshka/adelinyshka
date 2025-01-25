@@ -10,8 +10,10 @@ I'm a Senior Frontend Engineer with over 9 years of experience building high-per
 - Car Price Limited, an online used car auction platform with $250M+ revenue.
 
 
+
+
 ### Get in touch
-dubinnikova.adel.dev@gmail.com
+monjankin@gmail.com
 
 <!--
 **adelinyshka/adelinyshka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
