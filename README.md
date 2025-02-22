@@ -2,7 +2,7 @@
 
 
 
-I'm a Senior Frontend Engineer with over 9 years of experience building high-performance web applications & driving user engagement for products in hospitality, banking, AI, transportation, & e-commerce industries, including:
+I'm a Senior Engineer with over 9 years of experience building high-performance web applications & driving user engagement for products in hospitality, banking, AI, transportation, & e-commerce industries, including:
 
 - Life360 Inc., a family safety platform with 50M+ users & 10B+ daily location updates;
 - DMASS Inc., a generative AI platform analyzing 200B+ data points for businesses;
